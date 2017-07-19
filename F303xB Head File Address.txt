@@ -1,0 +1,12 @@
+$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\inc
+$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\CMSIS\Device\ST\STM32F30x\Include
+
+$PROJ_DIR$\..\Code\FOC
+$PROJ_DIR$\..\Code\Lib
+$PROJ_DIR$\..\Code
+
+STM32F303xx
+USE_STDPERIPH_DRIVER
+DEBUG_MCU
+
+
