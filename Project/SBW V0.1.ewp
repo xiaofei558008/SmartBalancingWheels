@@ -312,8 +312,8 @@
         </option>
         <option>
           <name>CCIncludePath2</name>
-          <state>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\inc</state>
-          <state>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\CMSIS\Device\ST\STM32F30x\Include</state>
+          <state>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\inc</state>
+          <state>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\CMSIS\Device\ST\STM32F30x\Include</state>
           <state>$PROJ_DIR$\..\Code\FOC</state>
           <state>$PROJ_DIR$\..\Code\Lib</state>
           <state>$PROJ_DIR$\..\Code</state>
@@ -1956,85 +1956,85 @@
   <group>
     <name>StandardLib</name>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_adc.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_adc.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_can.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_can.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_comp.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_comp.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_crc.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_crc.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_dac.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_dac.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_dbgmcu.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_dbgmcu.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_dma.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_dma.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_exti.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_exti.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_flash.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_flash.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_fmc.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_fmc.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_gpio.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_gpio.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_hrtim.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_hrtim.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_i2c.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_i2c.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_iwdg.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_iwdg.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_misc.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_misc.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_opamp.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_opamp.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_pwr.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_pwr.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_rcc.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_rcc.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_rtc.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_rtc.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_spi.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_spi.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_syscfg.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_syscfg.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_tim.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_tim.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_usart.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_usart.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_wwdg.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\STM32F30x_StdPeriph_Driver\src\stm32f30x_wwdg.c</name>
     </file>
   </group>
   <group>
     <name>StartUp</name>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\CMSIS\Device\ST\STM32F30x\Source\Templates\iar\startup_stm32f303xc.s</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\CMSIS\Device\ST\STM32F30x\Source\Templates\iar\startup_stm32f303xc.s</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\..\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\CMSIS\Device\ST\STM32F30x\Source\Templates\system_stm32f30x.c</name>
+      <name>$PROJ_DIR$\..\STM32F30x_DSP_StdPeriph_Lib_V1.2.3\Libraries\CMSIS\Device\ST\STM32F30x\Source\Templates\system_stm32f30x.c</name>
     </file>
   </group>
   <group>
