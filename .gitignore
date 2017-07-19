@@ -4,6 +4,7 @@
 *.obj
 *.elf
 *.html
+*.js
 
 # Precompiled Headers
 *.gch
