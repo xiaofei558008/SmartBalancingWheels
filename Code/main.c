@@ -1,9 +1,7 @@
 /*This is the main functions.
 File name :main.c
 All rights reserved,if the code is not authorized by STMicroelectronics.
-----by tom.xiao
-E-mail:tom.xiao@ST.com
-2014-12-16 16:03:28
+2017-07-21 9:47:9 Tom.xiao@st.com
 */
 
 #include "main.h"
@@ -79,13 +77,13 @@ int main(void)
 
   //init Clarke Park SVPWM.
   ClarkePark_PID_SVPWM_Init(&AClarkePark,   //ClarkePark_TypeDef* Temp,
-                            &AHallAngle,       //Angle_TypeDef*      Angle,
+                            &AHallAngle,    //Angle_TypeDef*      Angle,
                             TIM1,           //TIM_TypeDef*        TIM_PWM,
                             TIM4            //TIM_TypeDef*        TIM_ANG,
                            );
 
   ClarkePark_PID_SVPWM_Init(&BClarkePark,   //ClarkePark_TypeDef* Temp,
-                            &BHallAngle,       //Angle_TypeDef*      Angle,
+                            &BHallAngle,    //Angle_TypeDef*      Angle,
                             TIM8,           //TIM_TypeDef*        TIM_PWM,
                             TIM3            //TIM_TypeDef*        TIM_ANG,
                            );
